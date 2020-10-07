@@ -15,7 +15,16 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Package recommend
+## Issues Fixed
+
+### flutter doctor
+1. JAVA_HOME -> jre1.8
+2. android studio: must install dart plugs
+3. VS CODE: install extensions
+4. create Emulator
+
+
+## Packages Recommended
 
 1. http
 2. image_picker
@@ -25,6 +34,6 @@ samples, guidance on mobile development, and a full API reference.
 6. flutter_auth_buttons
 7. pull_to_refresh
 8. animated_test_kit
-9. bloc (installed)
+9. ~~bloc (installed)~~ insteaded by provider
 10. flutter_swiper
 

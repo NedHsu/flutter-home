@@ -23,7 +23,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  bloc: ^6.0.3
+  # State
+  provider: ^4.3.2+2
+  
+  flare_splash_screen: ^3.0.1
 
 
   # The following adds the Cupertino Icons font to your application.
