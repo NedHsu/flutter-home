@@ -25,7 +25,12 @@ dependencies:
     sdk: flutter
   # State
   provider: ^4.3.2+2
-  
+
+  # Auth
+  firebase_auth: ^0.18.1+2
+  google_sign_in: ^4.5.4
+
+  # UI
   flare_splash_screen: ^3.0.1
 
 
