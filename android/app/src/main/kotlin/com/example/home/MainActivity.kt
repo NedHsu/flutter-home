@@ -1,4 +1,4 @@
-package com.example.home
+package com.ned.home
 
 import io.flutter.embedding.android.FlutterActivity
 
